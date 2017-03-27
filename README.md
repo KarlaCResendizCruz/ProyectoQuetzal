@@ -1,2 +1,0 @@
-# ProyectoQuetzal
-Proyecto laboral.
